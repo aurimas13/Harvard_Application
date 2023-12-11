@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/Harvard_Application/blob/main/Public/Harvard_logo_4.png"/>
+  <img height="222px" src="https://github.com/aurimas13/Harvard_Application/blob/main/Public/Harvard_logo_3.png"/>
 </p>
 <h1 align="center"> Welcome to my Harvard  Journey 🚀 </h1>
 <p align="center"> Hello and welcome to my Harvard Application story. </p>
