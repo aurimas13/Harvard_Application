@@ -2,7 +2,7 @@
   <img height="222px" src="https://github.com/aurimas13/Harvard_Application/blob/main/Public/Harvard_logo_3.png"/>
 </p>
 <h1 align="center"> Welcome to my Harvard  Journey 🚀 </h1>
-<p align="center"> Hello and welcome to my Harvard Application story. </p>
+<p align="center"> Hello and welcome to my Previous Year Harvard Application Story. </p>
 <p align="center"> Featuring a <b> Personal Story </b> to videos of challenges on <b> LeetCode </b> & a Research Proposal. Be a part of this journey. </p>
 <br>
 <p align=center>
@@ -20,7 +20,7 @@ Dive into my [Personal Journey](https://github.com/aurimas13/Harvard_Application
 - 🎥 Coming Soon: Watch the video version of my story for a more immersive experience.
 
 ## 🧬 Research Proposal
-Explore my [Research Proposal for Harvard](https://github.com/aurimas13/Harvard_Application/blob/main/Research_Proposal_Harvard.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health". This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
+Explore my [Research Proposal for Harvard](https://github.com/aurimas13/Harvard_Application/blob/main/Research_Proposal_Harvard.pdf) titled "Developing AGI Frameworks for Personalized Healthcare and Mental Health." This document outlines my vision for leveraging Artificial General Intelligence (AGI) in healthcare, focusing on personalization, predictive analysis, and mental health applications.
 
 ## 🖥️ A Problem A Day
 As a testament to my analytical and coding skills, check out my [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems) repository, where I solve computational problem a day and have solved over 500 problems to date. Still counting. 
@@ -37,15 +37,15 @@ In this category, you'll find projects related to teaching and educational resou
 - [Pazink Dirbtini Intelekta](https://github.com/aurimas13/Pazink-Dirbtini-Intelekta) 
 
 ### 💻 Software and Web Development
-This group showcases my work in software and web development, ranging from full-stack web applications to utility programs and APIs. These projects demonstrate a range of skills in different programming languages and frameworks.
+This group showcases my software and web development work, ranging from full-stack web applications to utility programs and APIs. These projects demonstrate a range of skills in different programming languages and frameworks.
 
 - [Communication of Services](https://github.com/aurimas13/Communication-of-Services)  
 - [Road App](https://github.com/aurimas13/Road-App)  
 - [Web Programs](https://github.com/aurimas13/Web-programs)  
 - [Time Tracker](https://github.com/aurimas13/Time-Tracker)  
 
-### 📊 Artificial Intelligence, Data Science and Machine Learning
-Here, you'll find projects that delve into data science, machine learning, artificial intelligence and analytics. These include predictive modeling, data analysis, and exploratory projects using various datasets and machine learning techniques.
+### 📊 Artificial Intelligence, Data Science, and Machine Learning
+Here, you'll find projects that delve into data science, machine learning, artificial intelligence, and analytics. These include predictive modeling, data analysis, and exploratory projects using various datasets and machine learning techniques.
 
 - [Machine Learning Goodness](https://github.com/aurimas13/Machine-Learning-Goodness) 
 - [Revenue Forecast](https://github.com/aurimas13/Revenue-Forecast)  
@@ -55,7 +55,7 @@ Here, you'll find projects that delve into data science, machine learning, artif
 - [Coursera Courses Analysis](https://github.com/aurimas13/Coursera-courses-analysis)  
 
 ### 🧪 Science and Research
-This category includes projects that are more research-oriented, often involving scientific analysis, chemical studies, and exploratory data analysis in various scientific domains.
+This category includes more research-oriented projects, often involving scientific analysis, chemical studies, and exploratory data analysis in various scientific domains.
 
 - [Smiles Analysis](https://github.com/aurimas13/Smiles-analysis)  
 - [Chemical Analysis](https://github.com/aurimas13/Chemical-analysis)  
@@ -77,6 +77,6 @@ This section contains my solutions to various programming exercises and problems
 - [Solutions To Problems](https://github.com/aurimas13/Solutions-To-Problems)  
 
 ### 🌐 Personal and Miscellaneous
-This group includes my personal profile that showcase a range of interests and skills outside the specific categories mentioned above.
+This group includes my profile and showcases a range of interests and skills outside the categories mentioned above.
 
 - [Aurimas/Alex's Profile](https://github.com/aurimas13/aurimas13)   
